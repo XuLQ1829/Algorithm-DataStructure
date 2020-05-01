@@ -68,7 +68,7 @@
  (-1) + (-127) = [1000 0001]原 + [1111 1111]原 = [1111 1111]补 + [1000 0001]补 = [1000 0000]补
 ```
 
-参考资料：
+参考资料：  
 《剑指offer》  
 [牛客网的剑指offer专题](https://www.nowcoder.com/ta/coding-interviews)    
 [LeetCode的剑指offer专题](https://leetcode-cn.com/problemset/lcof/)  
